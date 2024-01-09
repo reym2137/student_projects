@@ -1,2 +1,2 @@
-# student_projects
+# Ważna_informacja
 Wojtek to gej
