@@ -18,4 +18,4 @@ else:
             slownik[slowo] = z
             print(slownik)
     else:
-        exit
+        exit()
